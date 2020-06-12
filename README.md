@@ -15,3 +15,11 @@ CANNOT LINK EXECUTABLE "wget": cannot locate symbol
 "/data/data/com.termux/files/usr/bin/wget"...
 `
 
+To install this package, download the deb file to
+somewhere visible within Termux, then rather than
+the usual `pkg install wget` command, type:
+`pkg install /path/to/debs/wget_1.20.3-2_arm.deb`
+
+This package is distributed under the same license
+as the corresponding standard wget package,
+and the source code is available from:
