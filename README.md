@@ -25,3 +25,5 @@ as the corresponding standard wget package,
 and the source code is available from:
 https://www.gnu.org/software/wget/
 and
+https://github.com/termux/termux-packages/tree/master/packages/wget
+
