@@ -23,3 +23,5 @@ the usual `pkg install wget` command, type:
 This package is distributed under the same license
 as the corresponding standard wget package,
 and the source code is available from:
+https://www.gnu.org/software/wget/
+and
